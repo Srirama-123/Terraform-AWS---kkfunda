@@ -1,8 +1,3 @@
-Here is the complete explanation of **Terraform Input Variables** with `.tfvars` differences in `.md` format, written in a clean and professional tone so that it doesn’t look AI-generated.
-
----
-
-```markdown
 # Terraform Input Variables – Complete Guide (with EC2 Example)
 
 ##  Objective

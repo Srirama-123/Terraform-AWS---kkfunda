@@ -1,4 +1,3 @@
-```markdown
 # Terraform **Workspaces** – Hands-On Guide  
 *(Using the same VPC + EC2 project you built earlier)*
 

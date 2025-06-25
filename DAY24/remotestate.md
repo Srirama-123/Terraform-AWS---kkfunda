@@ -140,7 +140,7 @@ terraform apply
 | DynamoDB      | Locks the state file during changes    |
 | Backend Block | Configures remote backend in Terraform |
 
-### How to Explain to Students
+### Remember
 
 * Local state is risky in teams
 * S3 helps share the state centrally

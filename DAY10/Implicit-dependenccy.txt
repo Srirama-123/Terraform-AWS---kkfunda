@@ -26,9 +26,9 @@ resource "aws_security_group" "main-sg" {
     name = "dev-server-sg"
     description = "It will allow all traffic"
     ingress {
-        from_port = 0
+        from_port = 0     ( ##  0(zero)  Means All trafic allow) 
         to_port = 0
-        protocol = "-1"
+        protocol = "-1"      ( ##  -1  Means All trafic allow)
         cidr_blocks = ["0.0.0.0/0"]
     }
     egress {
